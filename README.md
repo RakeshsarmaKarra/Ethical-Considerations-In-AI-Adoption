@@ -57,3 +57,6 @@ Karra, Rakesh. Sarma., Kota, Meghana., Mahadasu, Mounika. Prabha., & Rajidi, Sin
 
 ## Conference Proceedings Paper
 Orhan, Z. (Author & Presenter), Karra, R.S. (Author), Kota, M. (Author), Mahadasu, M.P. (Author) (2024). *Assessing Artificial Intelligence's Transformative Impact On Higher Education*. In Society of North American Scholars (Ed.), *3rd Interdisciplinary Research Conference Proceedings* (pp. 17–22). Society of North American Scholars. https://snascholars.org/wp-content/uploads/2025/02/3rd-Interdisciplinary-Research-Conference-Proceedings.pdf
+
+[Click here to view the page directly](https://snascholars.org/wp-content/uploads/2025/02/3rd-Interdisciplinary-Research-Conference-Proceedings.pdf#page=17&view=FitH)
+
